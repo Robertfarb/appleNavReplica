@@ -28,3 +28,17 @@ img{
 li{
 	display: inline-block;
 }
+
+.fa-apple{
+	display: inline-block;
+	font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	color: #FFFFFF;
+	font-style: normal;
+	font-size: 1em;
+	text-decoration: none;
+}
+
+.fa-apple:hover{
+	opacity: .65;
+	cursor: pointer; 
+}
