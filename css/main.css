@@ -1,0 +1,23 @@
+img{
+	margin: 0 auto;
+	width: 100%;
+	height: auto;
+}
+
+.navBar{
+	text-align: center;
+	background-color: #323232
+}
+
+.link{
+	display: inline-block;
+	font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	color: #FFFFFF;
+	font-style: normal;
+	font-size: 1em;
+}
+
+.link:hover{
+	opacity: .65;
+	cursor: pointer;
+}
