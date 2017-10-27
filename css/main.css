@@ -21,3 +21,8 @@ img{
 	opacity: .65;
 	cursor: pointer;
 }
+
+img.appleLogo{
+	height: 20px;
+    width: auto;
+}
